@@ -1,3 +1,6 @@
+Please visit the live version [here}
+(https://modest-archimedes-88b4fb.netlify.com/#/):
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
